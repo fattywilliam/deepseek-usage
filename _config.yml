@@ -1,0 +1,5 @@
+title: 肥威文章分享
+description: 肥威文章分享 powered by GitHub Pages
+theme: minima
+plugins:
+  - jekyll-feed
